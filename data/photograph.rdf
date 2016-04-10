@@ -1,0 +1,135 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:bibo="http://purl.org/ontology/bibo/"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:ubbont="http://data.ub.uib.no/ontology/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <ubbont:Photograph rdf:about="http://data.ub.uib.no/instance/photograph/ubb-bs-fol-01797-015-b">
+    <dct:subject rdf:resource="http://data.ub.uib.no/topic/69aea375-a8a6-42e0-875a-b529c7c72a53"/>
+    <dct:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+    >2014-08-06</dct:available>
+    <dct:subject rdf:resource="http://data.ub.uib.no/topic/63b65d51-0b90-4a40-9cdf-43e16db9555c"/>
+    <ubbont:hasThumbnail rdf:datatype="http://www.w3.org/2001/XMLSchema#anyuri"
+    >http://data.ub.uib.no/files/bs/ubb/ubb-bs/ubb-bs-fol/ubb-bs-fol-01797/ubb-bs-fol-01797-015/ubb-bs-fol-01797-015-b/jpg/ubb-bs-fol-01797-015-b_th.jpg</ubbont:hasThumbnail>
+    <dct:subject rdf:resource="http://data.ub.uib.no/topic/ad9ed646-b8a6-4163-89d7-ab598b8b23c8"/>
+    <foaf:maker rdf:resource="http://data.ub.uib.no/instance/person/ad3b9f6a-da1e-4430-b5ef-0e109fb15245"/>
+    <dct:spatial rdf:resource="http://data.ub.uib.no/instance/spatialthing/2e251108-876d-487e-acbc-5b963337d105"/>
+    <ubbont:madeBefore rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+    >1923-12-31</ubbont:madeBefore>
+    <dct:subject rdf:resource="http://data.ub.uib.no/topic/27e10cd5-1fb7-48c7-9874-821089ae066e"/>
+    <dct:subject rdf:resource="http://data.ub.uib.no/topic/a54ad9bc-b917-40c6-9cdf-ca35a4e61811"/>
+    <ubbont:hasRepresentation rdf:resource="http://data.ub.uib.no/instance/aggregation/ubb-bs-fol-01797-015-b"/>
+    <ubbont:madeAfter rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+    >1923-01-01</ubbont:madeAfter>
+    <dct:subject rdf:resource="http://data.ub.uib.no/topic/65cc692d-3a9d-46ee-b3df-971b2af628f8"/>
+    <dct:subject rdf:resource="http://data.ub.uib.no/topic/bb332555-ea33-4f12-a032-3452b8f2f9d8"/>
+    <dct:spatial rdf:resource="http://data.ub.uib.no/Dombås_Turisthotell"/>
+    <ubbont:cataloguer rdf:resource="http://data.ub.uib.no/instance/cataloguer/9e7cca14-8d21-4ceb-afd7-7e64408ae0dd"/>
+    <dct:subject rdf:resource="http://data.ub.uib.no/topic/175704a9-4891-4ce3-9572-2282e6cfe93d"/>
+    <bibo:owner rdf:resource="http://data.ub.uib.no/instance/organization/billedsamlingen"/>
+    <dct:title>Dombaas 1923.</dct:title>
+    <ubbont:showWeb rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+    >true</ubbont:showWeb>
+    <dct:isPartOf rdf:resource="http://data.ub.uib.no/instance/album/ubb-bs-fol-01797"/>
+    <ubbont:physicalCondition>0=Svært god</ubbont:physicalCondition>
+    <dct:isPartOf rdf:resource="http://data.ub.uib.no/instance/collection/b054a121-943e-43b0-9834-c17242c5f35c"/>
+    <dct:identifier>ubb-bs-fol-01797-015-b</dct:identifier>
+  </ubbont:Photograph>
+  <ubbont:Photograph rdf:about="http://data.ub.uib.no/instance/photograph/ubb-bs-fol-01797-015-c">
+    <dct:isPartOf rdf:resource="http://data.ub.uib.no/instance/collection/b054a121-943e-43b0-9834-c17242c5f35c"/>
+    <ubbont:madeAfter rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+    >1923-01-01</ubbont:madeAfter>
+    <ubbont:physicalCondition>0=Svært god</ubbont:physicalCondition>
+    <dct:subject rdf:resource="http://data.ub.uib.no/topic/bb332555-ea33-4f12-a032-3452b8f2f9d8"/>
+    <ubbont:hasRepresentation rdf:resource="http://data.ub.uib.no/instance/aggregation/ubb-bs-fol-01797-015-c"/>
+    <dct:subject rdf:resource="http://data.ub.uib.no/topic/a05c2582-2b6d-4dd5-b150-bf4a604e6dd4"/>
+    <dct:spatial rdf:resource="http://data.ub.uib.no/Dombås_Turisthotell"/>
+    <ubbont:cataloguer rdf:resource="http://data.ub.uib.no/instance/cataloguer/9e7cca14-8d21-4ceb-afd7-7e64408ae0dd"/>
+    <dct:subject rdf:resource="http://data.ub.uib.no/topic/ad9ed646-b8a6-4163-89d7-ab598b8b23c8"/>
+    <dct:subject rdf:resource="http://data.ub.uib.no/topic/9ff0b20f-5837-414e-b2bd-dedb3a5c3239"/>
+    <dct:spatial rdf:resource="http://data.ub.uib.no/instance/spatialthing/2e251108-876d-487e-acbc-5b963337d105"/>
+    <dct:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+    >2014-08-07</dct:available>
+    <foaf:maker rdf:resource="http://data.ub.uib.no/instance/person/ad3b9f6a-da1e-4430-b5ef-0e109fb15245"/>
+    <ubbont:hasThumbnail rdf:datatype="http://www.w3.org/2001/XMLSchema#anyuri"
+    >http://data.ub.uib.no/files/bs/ubb/ubb-bs/ubb-bs-fol/ubb-bs-fol-01797/ubb-bs-fol-01797-015/ubb-bs-fol-01797-015-c/jpg/ubb-bs-fol-01797-015-c_th.jpg</ubbont:hasThumbnail>
+    <dct:identifier>ubb-bs-fol-01797-015-c</dct:identifier>
+    <dct:subject rdf:resource="http://data.ub.uib.no/topic/65cc692d-3a9d-46ee-b3df-971b2af628f8"/>
+    <ubbont:madeBefore rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+    >1923-12-31</ubbont:madeBefore>
+    <bibo:owner rdf:resource="http://data.ub.uib.no/instance/organization/billedsamlingen"/>
+    <dct:title>Dombaas 1923.</dct:title>
+    <ubbont:showWeb rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+    >true</ubbont:showWeb>
+    <dct:isPartOf rdf:resource="http://data.ub.uib.no/instance/album/ubb-bs-fol-01797"/>
+  </ubbont:Photograph>
+  <ubbont:Photograph rdf:about="http://data.ub.uib.no/instance/photograph/ubb-bs-ok-19374">
+    <ubbont:hasThumbnail rdf:datatype="http://www.w3.org/2001/XMLSchema#anyuri"
+    >http://data.ub.uib.no/files/bs/ubb/ubb-bs/ubb-bs-ok/ubb-bs-ok-19374/jpg/ubb-bs-ok-19374_th.jpg</ubbont:hasThumbnail>
+    <ubbont:cataloguer rdf:resource="http://data.ub.uib.no/Cataloguer_4"/>
+    <bibo:owner rdf:resource="http://data.ub.uib.no/Cataloguer_4"/>
+    <dct:subject rdf:resource="http://data.ub.uib.no/topic/39431fbb-6a52-4c7a-9f4b-7b788bfd49f5"/>
+    <dct:description>Huset ble senere påbygd en ekstra etasje og hoveddøren flyttet.</dct:description>
+    <ubbont:mainImage rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+    >true</ubbont:mainImage>
+    <dct:subject rdf:resource="http://data.ub.uib.no/topic/3820fb0e-081b-47d4-aea4-a90d529baa7b"/>
+    <foaf:maker rdf:resource="http://data.ub.uib.no/instance/agent/c38af810-17b1-4c08-bfe3-cb7951d039e0"/>
+    <dct:title>[Strandgaten, Sandnes]</dct:title>
+    <dct:subject rdf:resource="http://data.ub.uib.no/topic/44c3e7d8-8410-4dcf-a960-e4d05a8d614e"/>
+    <dct:spatial rdf:resource="http://data.ub.uib.no/instance/spatialthing/f84e43a5-c00a-4ff5-a178-c4e4ab6492b0"/>
+    <dct:subject rdf:resource="http://data.ub.uib.no/topic/c6d197db-1a78-4a2b-9d49-1c56a796cc11"/>
+    <dct:identifier>ubb-bs-ok-19374</dct:identifier>
+    <ubbont:hasRepresentation rdf:resource="http://data.ub.uib.no/instance/aggregation/ubb-bs-ok-19374"/>
+    <dct:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+    >2015-08-18</dct:available>
+  </ubbont:Photograph>
+  <ubbont:Photograph rdf:about="http://data.ub.uib.no/instance/photograph/ubb-bs-ok-02233-001">
+    <ubbont:previousIdentifier>MO_MotivID:77552</ubbont:previousIdentifier>
+    <ubbont:showWeb rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+    >true</ubbont:showWeb>
+    <dct:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+    >2010-08-20</dct:available>
+    <dct:identifier>ubb-bs-ok-02233-001</dct:identifier>
+    <dct:description>Schart, Gjertrud Marie, f.Meerlis</dct:description>
+    <dct:title>[Schart, Gjertrud Marie, f.Meerlis]</dct:title>
+    <foaf:depicts rdf:resource="http://data.ub.uib.no/instance/person/e79a787b-b1ce-4e61-90c2-b4a9da5cbf1b"/>
+    <dct:subject rdf:resource="http://data.ub.uib.no/topic/9eaeb81d-ce86-4a3e-b00a-16bf18a24d2b"/>
+    <foaf:maker rdf:resource="http://data.ub.uib.no/instance/agent/c38af810-17b1-4c08-bfe3-cb7951d039e0"/>
+    <ubbont:cataloguer rdf:resource="http://data.ub.uib.no/instance/cataloguer/9f272919-5a0b-4f99-b61b-5fca198a625c"/>
+    <dct:subject rdf:resource="http://data.ub.uib.no/topic/c98fbd01-aab1-41eb-88ee-e1e9a8889e1f"/>
+    <dct:subject rdf:resource="http://data.ub.uib.no/topic/7b4867e9-21d9-4333-802f-cf24ba916919"/>
+    <dct:subject rdf:resource="http://data.ub.uib.no/topic/e183441e-32b3-4716-b01a-86e5f23ea47a"/>
+    <dct:subject rdf:resource="http://data.ub.uib.no/topic/4b5d1951-6391-4bc6-8075-20f2f1c74d9f"/>
+  </ubbont:Photograph>
+  <ubbont:Photograph rdf:about="http://data.ub.uib.no/instance/photograph/ubb-bs-fol-01797-015-a">
+    <bibo:owner rdf:resource="http://data.ub.uib.no/instance/organization/billedsamlingen"/>
+    <dct:subject rdf:resource="http://data.ub.uib.no/topic/a54ad9bc-b917-40c6-9cdf-ca35a4e61811"/>
+    <dct:spatial rdf:resource="http://data.ub.uib.no/Dombås_Turisthotell"/>
+    <dct:spatial rdf:resource="http://data.ub.uib.no/instance/spatialthing/2e251108-876d-487e-acbc-5b963337d105"/>
+    <dct:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+    >2014-08-06</dct:available>
+    <ubbont:cataloguer rdf:resource="http://data.ub.uib.no/instance/cataloguer/9e7cca14-8d21-4ceb-afd7-7e64408ae0dd"/>
+    <dct:subject rdf:resource="http://data.ub.uib.no/topic/ad9ed646-b8a6-4163-89d7-ab598b8b23c8"/>
+    <ubbont:madeAfter rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+    >1923-01-01</ubbont:madeAfter>
+    <ubbont:hasThumbnail rdf:datatype="http://www.w3.org/2001/XMLSchema#anyuri"
+    >http://data.ub.uib.no/files/bs/ubb/ubb-bs/ubb-bs-fol/ubb-bs-fol-01797/ubb-bs-fol-01797-015/ubb-bs-fol-01797-015-a/jpg/ubb-bs-fol-01797-015-a_th.jpg</ubbont:hasThumbnail>
+    <foaf:maker rdf:resource="http://data.ub.uib.no/instance/person/ad3b9f6a-da1e-4430-b5ef-0e109fb15245"/>
+    <ubbont:madeBefore rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+    >1923-12-31</ubbont:madeBefore>
+    <dct:isPartOf rdf:resource="http://data.ub.uib.no/instance/album/ubb-bs-fol-01797"/>
+    <ubbont:showWeb rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+    >true</ubbont:showWeb>
+    <ubbont:physicalCondition>0=Svært god</ubbont:physicalCondition>
+    <dct:subject rdf:resource="http://data.ub.uib.no/topic/63b65d51-0b90-4a40-9cdf-43e16db9555c"/>
+    <dct:title>Dombaas 1923.</dct:title>
+    <dct:subject rdf:resource="http://data.ub.uib.no/topic/27e10cd5-1fb7-48c7-9874-821089ae066e"/>
+    <ubbont:hasRepresentation rdf:resource="http://data.ub.uib.no/instance/aggregation/ubb-bs-fol-01797-015-a"/>
+    <dct:isPartOf rdf:resource="http://data.ub.uib.no/instance/collection/b054a121-943e-43b0-9834-c17242c5f35c"/>
+    <dct:subject rdf:resource="http://data.ub.uib.no/topic/bb332555-ea33-4f12-a032-3452b8f2f9d8"/>
+    <dct:identifier>ubb-bs-fol-01797-015-a</dct:identifier>
+  </ubbont:Photograph>
+</rdf:RDF>
+

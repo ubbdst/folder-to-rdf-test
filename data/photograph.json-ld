@@ -1,0 +1,155 @@
+{
+  "@graph" : [ {
+    "@id" : "http://data.ub.uib.no/instance/photograph/ubb-bs-fol-01797-015-a",
+    "@type" : "ubbont:Photograph",
+    "cataloguer" : "http://data.ub.uib.no/instance/cataloguer/9e7cca14-8d21-4ceb-afd7-7e64408ae0dd",
+    "hasRepresentation" : "http://data.ub.uib.no/instance/aggregation/ubb-bs-fol-01797-015-a",
+    "hasThumbnail" : "http://data.ub.uib.no/files/bs/ubb/ubb-bs/ubb-bs-fol/ubb-bs-fol-01797/ubb-bs-fol-01797-015/ubb-bs-fol-01797-015-a/jpg/ubb-bs-fol-01797-015-a_th.jpg",
+    "madeAfter" : "1923-01-01",
+    "madeBefore" : "1923-12-31",
+    "physicalCondition" : "0=Svært god",
+    "ubbont:showWeb" : true,
+    "available" : "2014-08-06",
+    "identifier" : "ubb-bs-fol-01797-015-a",
+    "isPartOf" : [ "http://data.ub.uib.no/instance/album/ubb-bs-fol-01797", "http://data.ub.uib.no/instance/collection/b054a121-943e-43b0-9834-c17242c5f35c" ],
+    "spatial" : [ "http://data.ub.uib.no/Dombås_Turisthotell", "http://data.ub.uib.no/instance/spatialthing/2e251108-876d-487e-acbc-5b963337d105" ],
+    "subject" : [ "http://data.ub.uib.no/topic/a54ad9bc-b917-40c6-9cdf-ca35a4e61811", "http://data.ub.uib.no/topic/ad9ed646-b8a6-4163-89d7-ab598b8b23c8", "http://data.ub.uib.no/topic/63b65d51-0b90-4a40-9cdf-43e16db9555c", "http://data.ub.uib.no/topic/27e10cd5-1fb7-48c7-9874-821089ae066e", "http://data.ub.uib.no/topic/bb332555-ea33-4f12-a032-3452b8f2f9d8" ],
+    "title" : "Dombaas 1923.",
+    "owner" : "http://data.ub.uib.no/instance/organization/billedsamlingen",
+    "maker" : "http://data.ub.uib.no/instance/person/ad3b9f6a-da1e-4430-b5ef-0e109fb15245"
+  }, {
+    "@id" : "http://data.ub.uib.no/instance/photograph/ubb-bs-fol-01797-015-b",
+    "@type" : "ubbont:Photograph",
+    "cataloguer" : "http://data.ub.uib.no/instance/cataloguer/9e7cca14-8d21-4ceb-afd7-7e64408ae0dd",
+    "hasRepresentation" : "http://data.ub.uib.no/instance/aggregation/ubb-bs-fol-01797-015-b",
+    "hasThumbnail" : "http://data.ub.uib.no/files/bs/ubb/ubb-bs/ubb-bs-fol/ubb-bs-fol-01797/ubb-bs-fol-01797-015/ubb-bs-fol-01797-015-b/jpg/ubb-bs-fol-01797-015-b_th.jpg",
+    "madeAfter" : "1923-01-01",
+    "madeBefore" : "1923-12-31",
+    "physicalCondition" : "0=Svært god",
+    "ubbont:showWeb" : true,
+    "available" : "2014-08-06",
+    "identifier" : "ubb-bs-fol-01797-015-b",
+    "isPartOf" : [ "http://data.ub.uib.no/instance/album/ubb-bs-fol-01797", "http://data.ub.uib.no/instance/collection/b054a121-943e-43b0-9834-c17242c5f35c" ],
+    "spatial" : [ "http://data.ub.uib.no/instance/spatialthing/2e251108-876d-487e-acbc-5b963337d105", "http://data.ub.uib.no/Dombås_Turisthotell" ],
+    "subject" : [ "http://data.ub.uib.no/topic/69aea375-a8a6-42e0-875a-b529c7c72a53", "http://data.ub.uib.no/topic/63b65d51-0b90-4a40-9cdf-43e16db9555c", "http://data.ub.uib.no/topic/ad9ed646-b8a6-4163-89d7-ab598b8b23c8", "http://data.ub.uib.no/topic/27e10cd5-1fb7-48c7-9874-821089ae066e", "http://data.ub.uib.no/topic/a54ad9bc-b917-40c6-9cdf-ca35a4e61811", "http://data.ub.uib.no/topic/65cc692d-3a9d-46ee-b3df-971b2af628f8", "http://data.ub.uib.no/topic/bb332555-ea33-4f12-a032-3452b8f2f9d8", "http://data.ub.uib.no/topic/175704a9-4891-4ce3-9572-2282e6cfe93d" ],
+    "title" : "Dombaas 1923.",
+    "owner" : "http://data.ub.uib.no/instance/organization/billedsamlingen",
+    "maker" : "http://data.ub.uib.no/instance/person/ad3b9f6a-da1e-4430-b5ef-0e109fb15245"
+  }, {
+    "@id" : "http://data.ub.uib.no/instance/photograph/ubb-bs-fol-01797-015-c",
+    "@type" : "ubbont:Photograph",
+    "cataloguer" : "http://data.ub.uib.no/instance/cataloguer/9e7cca14-8d21-4ceb-afd7-7e64408ae0dd",
+    "hasRepresentation" : "http://data.ub.uib.no/instance/aggregation/ubb-bs-fol-01797-015-c",
+    "hasThumbnail" : "http://data.ub.uib.no/files/bs/ubb/ubb-bs/ubb-bs-fol/ubb-bs-fol-01797/ubb-bs-fol-01797-015/ubb-bs-fol-01797-015-c/jpg/ubb-bs-fol-01797-015-c_th.jpg",
+    "madeAfter" : "1923-01-01",
+    "madeBefore" : "1923-12-31",
+    "physicalCondition" : "0=Svært god",
+    "ubbont:showWeb" : true,
+    "available" : "2014-08-07",
+    "identifier" : "ubb-bs-fol-01797-015-c",
+    "isPartOf" : [ "http://data.ub.uib.no/instance/collection/b054a121-943e-43b0-9834-c17242c5f35c", "http://data.ub.uib.no/instance/album/ubb-bs-fol-01797" ],
+    "spatial" : [ "http://data.ub.uib.no/Dombås_Turisthotell", "http://data.ub.uib.no/instance/spatialthing/2e251108-876d-487e-acbc-5b963337d105" ],
+    "subject" : [ "http://data.ub.uib.no/topic/bb332555-ea33-4f12-a032-3452b8f2f9d8", "http://data.ub.uib.no/topic/a05c2582-2b6d-4dd5-b150-bf4a604e6dd4", "http://data.ub.uib.no/topic/ad9ed646-b8a6-4163-89d7-ab598b8b23c8", "http://data.ub.uib.no/topic/9ff0b20f-5837-414e-b2bd-dedb3a5c3239", "http://data.ub.uib.no/topic/65cc692d-3a9d-46ee-b3df-971b2af628f8" ],
+    "title" : "Dombaas 1923.",
+    "owner" : "http://data.ub.uib.no/instance/organization/billedsamlingen",
+    "maker" : "http://data.ub.uib.no/instance/person/ad3b9f6a-da1e-4430-b5ef-0e109fb15245"
+  }, {
+    "@id" : "http://data.ub.uib.no/instance/photograph/ubb-bs-ok-02233-001",
+    "@type" : "ubbont:Photograph",
+    "cataloguer" : "http://data.ub.uib.no/instance/cataloguer/9f272919-5a0b-4f99-b61b-5fca198a625c",
+    "previousIdentifier" : "MO_MotivID:77552",
+    "ubbont:showWeb" : true,
+    "available" : "2010-08-20",
+    "description" : "Schart, Gjertrud Marie, f.Meerlis",
+    "identifier" : "ubb-bs-ok-02233-001",
+    "subject" : [ "http://data.ub.uib.no/topic/9eaeb81d-ce86-4a3e-b00a-16bf18a24d2b", "http://data.ub.uib.no/topic/c98fbd01-aab1-41eb-88ee-e1e9a8889e1f", "http://data.ub.uib.no/topic/7b4867e9-21d9-4333-802f-cf24ba916919", "http://data.ub.uib.no/topic/e183441e-32b3-4716-b01a-86e5f23ea47a", "http://data.ub.uib.no/topic/4b5d1951-6391-4bc6-8075-20f2f1c74d9f" ],
+    "title" : "[Schart, Gjertrud Marie, f.Meerlis]",
+    "depicts" : "http://data.ub.uib.no/instance/person/e79a787b-b1ce-4e61-90c2-b4a9da5cbf1b",
+    "maker" : "http://data.ub.uib.no/instance/agent/c38af810-17b1-4c08-bfe3-cb7951d039e0"
+  }, {
+    "@id" : "http://data.ub.uib.no/instance/photograph/ubb-bs-ok-19374",
+    "@type" : "ubbont:Photograph",
+    "cataloguer" : "http://data.ub.uib.no/Cataloguer_4",
+    "hasRepresentation" : "http://data.ub.uib.no/instance/aggregation/ubb-bs-ok-19374",
+    "hasThumbnail" : "http://data.ub.uib.no/files/bs/ubb/ubb-bs/ubb-bs-ok/ubb-bs-ok-19374/jpg/ubb-bs-ok-19374_th.jpg",
+    "ubbont:mainImage" : true,
+    "available" : "2015-08-18",
+    "description" : "Huset ble senere påbygd en ekstra etasje og hoveddøren flyttet.",
+    "identifier" : "ubb-bs-ok-19374",
+    "spatial" : "http://data.ub.uib.no/instance/spatialthing/f84e43a5-c00a-4ff5-a178-c4e4ab6492b0",
+    "subject" : [ "http://data.ub.uib.no/topic/39431fbb-6a52-4c7a-9f4b-7b788bfd49f5", "http://data.ub.uib.no/topic/3820fb0e-081b-47d4-aea4-a90d529baa7b", "http://data.ub.uib.no/topic/44c3e7d8-8410-4dcf-a960-e4d05a8d614e", "http://data.ub.uib.no/topic/c6d197db-1a78-4a2b-9d49-1c56a796cc11" ],
+    "title" : "[Strandgaten, Sandnes]",
+    "owner" : "http://data.ub.uib.no/Cataloguer_4",
+    "maker" : "http://data.ub.uib.no/instance/agent/c38af810-17b1-4c08-bfe3-cb7951d039e0"
+  } ],
+  "@context" : {
+    "hasThumbnail" : {
+      "@id" : "http://data.ub.uib.no/ontology/hasThumbnail",
+      "@type" : "http://www.w3.org/2001/XMLSchema#anyuri"
+    },
+    "cataloguer" : {
+      "@id" : "http://data.ub.uib.no/ontology/cataloguer",
+      "@type" : "@id"
+    },
+    "owner" : {
+      "@id" : "http://purl.org/ontology/bibo/owner",
+      "@type" : "@id"
+    },
+    "subject" : {
+      "@id" : "http://purl.org/dc/terms/subject",
+      "@type" : "@id"
+    },
+    "description" : "http://purl.org/dc/terms/description",
+    "mainImage" : {
+      "@id" : "http://data.ub.uib.no/ontology/mainImage",
+      "@type" : "http://www.w3.org/2001/XMLSchema#boolean"
+    },
+    "maker" : {
+      "@id" : "http://xmlns.com/foaf/0.1/maker",
+      "@type" : "@id"
+    },
+    "title" : "http://purl.org/dc/terms/title",
+    "spatial" : {
+      "@id" : "http://purl.org/dc/terms/spatial",
+      "@type" : "@id"
+    },
+    "identifier" : "http://purl.org/dc/terms/identifier",
+    "hasRepresentation" : {
+      "@id" : "http://data.ub.uib.no/ontology/hasRepresentation",
+      "@type" : "@id"
+    },
+    "available" : {
+      "@id" : "http://purl.org/dc/terms/available",
+      "@type" : "http://www.w3.org/2001/XMLSchema#date"
+    },
+    "previousIdentifier" : "http://data.ub.uib.no/ontology/previousIdentifier",
+    "showWeb" : {
+      "@id" : "http://data.ub.uib.no/ontology/showWeb",
+      "@type" : "http://www.w3.org/2001/XMLSchema#boolean"
+    },
+    "depicts" : {
+      "@id" : "http://xmlns.com/foaf/0.1/depicts",
+      "@type" : "@id"
+    },
+    "isPartOf" : {
+      "@id" : "http://purl.org/dc/terms/isPartOf",
+      "@type" : "@id"
+    },
+    "madeAfter" : {
+      "@id" : "http://data.ub.uib.no/ontology/madeAfter",
+      "@type" : "http://www.w3.org/2001/XMLSchema#date"
+    },
+    "physicalCondition" : "http://data.ub.uib.no/ontology/physicalCondition",
+    "madeBefore" : {
+      "@id" : "http://data.ub.uib.no/ontology/madeBefore",
+      "@type" : "http://www.w3.org/2001/XMLSchema#date"
+    },
+    "rdfs" : "http://www.w3.org/2000/01/rdf-schema#",
+    "ubbont" : "http://data.ub.uib.no/ontology/",
+    "foaf" : "http://xmlns.com/foaf/0.1/",
+    "dct" : "http://purl.org/dc/terms/",
+    "bibo" : "http://purl.org/ontology/bibo/",
+    "rdf" : "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+    "skos" : "http://www.w3.org/2004/02/skos/core#"
+  }
+}
